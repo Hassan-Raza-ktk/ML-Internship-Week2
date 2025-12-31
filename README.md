@@ -18,5 +18,35 @@ This repository contains the tasks completed during the second week of my Machin
 2. Efficient array processing using NumPy.
 3. Feature engineering and data visualization.
 
----
+## Task 2.3 – Data Visualization with Matplotlib & Seaborn
+
+In this task, I used the cleaned Titanic dataset to create multiple data visualizations for better exploratory data analysis.
+
+### Visualizations Created
+- Line plot (Age distribution)
+- Scatter plot (Age vs Fare)
+- Histogram (Passenger class distribution)
+- Bar chart (Survival rates)
+- Box plot (Fare by passenger class)
+- Violin plot (Age by gender)
+- Correlation heatmap
+- Pair plot for numerical features
+
+- Below are some example visualizations generated in Task 2.3:
+
+![Age Distribution](Task_2_3_Visualization/visualizations/age_distribution.png)
+
+![Survival Rates](Task_2_3_Visualization/visualizations/survival_bar.png)
+
+![Correlation Heatmap](Task_2_3_Visualization/visualizations/correlation_heatmap.png)
+
+Other plots (scatter, box, violin, pair plot) are available in the visualizations folder.
+
+All visualizations were generated using **Matplotlib and Seaborn** and saved as PNG files.
+
+### Key Learnings
+- Choosing appropriate plots for different data types
+- Understanding relationships between numerical features
+- Visual interpretation of survival patterns in the Titanic dataset
+
 *Created by [Hassan Raza]*
