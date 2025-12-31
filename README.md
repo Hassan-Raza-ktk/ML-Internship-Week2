@@ -33,7 +33,7 @@ In this task, I used the cleaned Titanic dataset to create multiple data visuali
 - Pair plot for numerical features
 
 - Below are some example visualizations generated in Task 2.3:
-
+<img src="Task_2_3_Visualization/visualizations/line_plot.png" width="250" alt="Age Distribution">
 ![Age Distribution](Task_2_3_Visualization/visualizations/line_plot.png)
 
 ![Survival Rates](Task_2_3_Visualization/visualizations/bar_chart.png)
