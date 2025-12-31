@@ -34,11 +34,11 @@ In this task, I used the cleaned Titanic dataset to create multiple data visuali
 
 - Below are some example visualizations generated in Task 2.3:
 
-![Age Distribution](Task_2_3_Visualization/visualizations/age_distribution.png)
+![Age Distribution](Task_2_3_Visualization/visualizations/line_plot.png)
 
-![Survival Rates](Task_2_3_Visualization/visualizations/survival_bar.png)
+![Survival Rates](Task_2_3_Visualization/visualizations/bar_chart.png)
 
-![Correlation Heatmap](Task_2_3_Visualization/visualizations/correlation_heatmap.png)
+![Correlation Heatmap](Task_2_3_Visualization/visualizations/heatmap.png)
 
 Other plots (scatter, box, violin, pair plot) are available in the visualizations folder.
 
