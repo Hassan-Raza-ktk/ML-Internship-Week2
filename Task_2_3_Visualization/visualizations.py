@@ -19,7 +19,7 @@ print("Data Loaded")
 # 1. Cleaned data ko load karna (Path ko folder structure ke mutabiq set kiya hai) [cite: 39]
 df = pd.read_csv('week2/TAsk_2_2_Pandas/titanic_cleaned.csv')
 
-target_path = os.path.join('Task_2_3_Visualization', 'visualizations')
+target_path = os.path.join('week2/Task_2_3_Visualization', 'visualizations')
 
 # Visualizations folder ki checking aur creation [cite: 40]
 if not os.path.exists(target_path):
